@@ -1,0 +1,57 @@
+{
+  "user": {
+    "ID": {
+      "leaderboard": {
+        "ID": "",
+        "user_ID": 0
+      }
+    },
+    "curriculum_ID": {
+      "curriculum": {
+        "ID": {
+          "subject": {
+            "ID": "",
+            "curriculum_ID": 0,
+            "subject_list_ID": {
+              "subject_list": {
+                "ID": "",
+                "subject": ""
+              }
+            }
+          }
+        },
+        "question_ID": {
+          "curriculum_questions": {
+            "ID": "",
+            "description": "",
+            "questions_choice_ID": {
+              "question_choice": {
+                "ID": "",
+                "choice1": "",
+                "choice2": "",
+                "choice3": "",
+                "correct": ""
+              }
+            },
+            "title": ""
+          }
+        },
+        "times_done": 0,
+        "title": ""
+      }
+    },
+    "email": "",
+    "first_name": "",
+    "last_name": "",
+    "number_curriculum_done": 0,
+    "password": "",
+    "points": 0,
+    "user_type_ID": {
+      "user_type": {
+        "ID": "",
+        "premium": false
+      }
+    },
+    "username": ""
+  }
+}
